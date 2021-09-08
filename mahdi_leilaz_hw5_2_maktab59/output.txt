@@ -1,0 +1,58 @@
+
+ ================================ Setting Container Up! ================================
+
+  :: The Array Is Seted! ::
+Array = {3, 1, 5, 4, 2, 2}
+The length of the Array is 6
+
+ ================================ Sorting The Elements! ================================
+
+  :: Soting From Min To Max ::
+{1, 2, 2, 3, 4, 5}
+
+  :: Soting From Max To Min ::
+{5, 4, 3, 2, 2, 1}
+
+ ================================= Adding New Element! =================================
+
+  :: AddElementWithIndex(value: 10,index: 3) ::
+Array = {3, 1, 5, 10, 4, 2, 2}
+The length of the Array is 7
+
+  :: See New Sort Array ::
+
+In This Program Input Array Sorted Just One Time!
+And Then We Work With Sorted Array; (see Container Class)
+{1, 2, 2, 3, 4, 5, 10}
+
+  :: Adding without Index: AddNewElement(23) ::
+Array = {3, 1, 5, 10, 4, 2, 2, 23}
+The length of the Array is 8
+
+
+ ================================= Deleting An Element =================================
+
+  :: Deleting by Index: DeleteElementByIndex(7) ::
+Array = {3, 1, 5, 10, 4, 2, 2}
+The length of the Array is 7
+
+  :: Deleting by value: DeleteElementByValue(2) ::
+(We have two times 2 and we want delet them)
+Array = {3, 1, 5, 10, 4}
+The length of the Array is 5
+
+  :: See New Sort Array ::
+{1, 3, 4, 5, 10}
+
+  :: I added two timed 2 at the end of array again ::
+
+
+ ================================= Searching An Element =================================
+
+  :: It return An Array That contains Indices Of All searched Value in our Array ::
+  :: We are going to search 2 ::
+
+We have 2 times 2 in our Array. The indices are 6  and  5  
+
+ ================================= I Hope You Enjoy It =================================
+
